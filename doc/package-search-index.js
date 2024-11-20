@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.bandiClasses.DMS"},{"l":"com.bandiClasses.DMS.Controllers"},{"l":"com.bandiClasses.DMS.Models"},{"l":"com.bandiClasses.DMS.repository"}];updateSearchResults();
